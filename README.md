@@ -54,19 +54,6 @@ https://cafe-rexidro.vercel.app/
 - **Vite**
 - **Vercel (برای دیپلوی)**
 
----
-
-## 🚀 اجرای پروژه به‌صورت محلی
-
-برای اجرای پروژه روی سیستم خود، مراحل زیر را انجام دهید:
-
-```bash
-git clone https://github.com/WebRezaSeyyednezhad/Cafe-Rexidro.git
-cd Cafe-Rexidro
-npm install
-npm run dev
-```
-سپس پروژه روی آدرس محلی اجرا خواهد شد.
 
 ---
 
@@ -161,19 +148,6 @@ This project is suitable as a portfolio piece for frontend development using Rea
 - **React Router DOM**
 - **Vite**
 - **Vercel (Deployment)**
-
----
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/WebRezaSeyyednezhad/Cafe-Rexidro.git
-cd Cafe-Rexidro
-npm install
-npm run dev
-```
 
 ---
 
